@@ -1,0 +1,10 @@
+react = javascript library pour produire des User Interface 
+        il se compare avec les frontend framework like Angular , Vue
+        perfermant car il nous permet de charger / modifier des données SANS recharge de la page grace a DOM qui est single page landing
+
+
+JSX (java script extension) = html dynamique grace à JS
+
+render : tloadi haja mou3ayna (yjiblk comonent b kolou) , return : traja3 data static
+
+1 : first etape ====> te5ou maquette mte3k w t9asmha sous forme DES COMPOSANTS
