@@ -4,7 +4,7 @@
       "id": 2,
       "text": "Meeting at school",
       "day": "Feb 6th at 1:30pm",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 3,
@@ -17,6 +17,12 @@
       "day": "monday",
       "reminder": true,
       "id": 4
+    },
+    {
+      "text": "Weekly Report ",
+      "day": "10/06/2022",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
