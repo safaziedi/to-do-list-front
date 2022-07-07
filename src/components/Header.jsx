@@ -5,7 +5,7 @@ const Header = ({title, onClickAdd,show }) => {
     <header className="header">
       <h1 style={monstyle}>{title ? title : 'valeur par defaut'}</h1>
       <Button color={!show  ? "green" : "red"} 
-      text={!show ? "add" : "sub"} onClick={onClickAdd}/>
+      description={!show ? "add" : "sub"} onClick={onClickAdd}/>
     </header>
   )
 }
